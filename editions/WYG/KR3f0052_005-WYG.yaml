@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0052/WYG/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0052_WYG_005-1a, image: WYG0802/WYG0802-0661c.png}
+body:
+  text: 勾股引蒙卷五海寧陳訏撰象限線度總目正弦正切正割正矢以餘弦減全餘弦餘切餘割餘矢以正弦減全平度正線即髙度餘線髙度正線即平度餘線初一八八二八七三八六四八五五八四六八三七八二八八一九八十十七九十一七八十二七七十三七六十四七五十五七四十六七三十七七二十八七一十九七十二十六九二一六八二二六七二三六六二四六五二五六四二六六三二七六二二八六一二九六十三十五九三一五八三二五七三三五六三四五五三五五四三六五三三七五二三八五一三九五十四十四九四一四八四二四七四三四六四四四五求弧度之分秒如設數與表相合即本度分也不合則表數與設數近少者相減得差乗六十得數為實再表中近多者與近少相減得差為法而一得數以加近少之弧度分即所求之弧度分秒
+  hash: sha256:a6bc3a9c09368de4ddff5d728bfe789d075fc9c2e84fbb3f86a38671c22dae07
+metadata:
+  title: 句股引蒙
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:11:16.388620'
+  juan_title: 卷五
+  source:
+    repository: kanripo
+    path: KR3f0052/KR3f0052_005.txt
+hash: sha256:77c1a4075f90e59569d94de825c6d5aa0fe83713ee7534a9e114a6c6c000daf0
