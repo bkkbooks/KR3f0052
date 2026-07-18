@@ -32,6 +32,7 @@ markers:
   - {type: indent, offset: 21, content: 　, id: KR3f0052_WYG_005-bkkind7}
   - {type: indent, offset: 23, content: 　, id: KR3f0052_WYG_005-bkkind8}
   - {type: punctuation, offset: 25, content: (, id: KR3f0052_WYG_005-bkkpn1}
+  - {type: voice, offset: 25, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 30, content: /, id: KR3f0052_WYG_005-bkkpn2}
   - {type: punctuation, offset: 30, content: ), id: KR3f0052_WYG_005-bkkpn3}
   - {type: 'kr:newline', offset: 30, content: '
@@ -43,6 +44,7 @@ markers:
   - {type: indent, offset: 34, content: 　, id: KR3f0052_WYG_005-bkkind11}
   - {type: indent, offset: 36, content: 　, id: KR3f0052_WYG_005-bkkind12}
   - {type: punctuation, offset: 38, content: (, id: KR3f0052_WYG_005-bkkpn4}
+  - {type: voice, offset: 38, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 43, content: /, id: KR3f0052_WYG_005-bkkpn5}
   - {type: punctuation, offset: 43, content: ), id: KR3f0052_WYG_005-bkkpn6}
   - {type: 'kr:newline', offset: 43, content: '
@@ -50,9 +52,11 @@ markers:
       ', id: KR3f0052_WYG_005-bkkkrnewl6}
   - {type: line-break, offset: 43, content: '', id: KR3f0052_WYG_005-1a07}
   - {type: punctuation, offset: 45, content: (, id: KR3f0052_WYG_005-bkkpn7}
+  - {type: voice, offset: 45, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 52, content: /, id: KR3f0052_WYG_005-bkkpn8}
   - {type: punctuation, offset: 52, content: ), id: KR3f0052_WYG_005-bkkpn9}
   - {type: punctuation, offset: 54, content: (, id: KR3f0052_WYG_005-bkkpn10}
+  - {type: voice, offset: 54, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 61, content: /, id: KR3f0052_WYG_005-bkkpn11}
   - {type: punctuation, offset: 61, content: ), id: KR3f0052_WYG_005-bkkpn12}
   - {type: 'kr:newline', offset: 61, content: '
@@ -445,4 +449,4 @@ markers:
 
       ', id: KR3f0052_WYG_005-bkkkrnewl80}
   back: []
-hash: sha256:dea6641e8db2002650093fa3e72317a704ce68f3e1c131861b6789b582ccb4f5
+hash: sha256:ba2eaa70b9f036ba7800c95f707514bc146d8022230418da5aa0ae6c40c32159
